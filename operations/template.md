@@ -1,4 +1,4 @@
-# [Version Number] - [Release Date]
+# [Release Date]
 
 ## Highlights
 [Brief summary of the most important updates to the GraphQL operations]

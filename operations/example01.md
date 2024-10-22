@@ -1,4 +1,4 @@
-# v1.8.0 - October 15, 2024
+# October 15, 2024
 
 ## Highlights
 This release introduces a new mutation for user authentication, updates several queries for improved performance, and fixes critical bugs.
